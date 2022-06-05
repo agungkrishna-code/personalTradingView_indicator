@@ -1,0 +1,1 @@
+# personalTradingView_indicator
