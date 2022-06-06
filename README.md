@@ -1,2 +1,2 @@
 # personalTradingView_indicator
-pine script coming soon.(soon as possible)
+follow my tradingview 👉🙂 https://id.tradingview.com/u/dewagedeagungkrishnananda/
