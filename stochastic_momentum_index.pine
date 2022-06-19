@@ -1,6 +1,6 @@
 //@version=5
 
-study("Stochastic Momentum Index", shorttitle="SMI")
+indicator(title="Stochastic Momentum Index", shorttitle="SMI")
 
 q = input(title="Length (Stochastic Lookback)", type=integer, minval=1, defval=13)
 r = input(title="First Smoothing Length", type=integer, minval=1, defval=25)
