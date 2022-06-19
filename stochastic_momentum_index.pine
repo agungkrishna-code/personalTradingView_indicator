@@ -31,3 +31,5 @@ oversold = hline(title="Oversold Level", price=oversoldLevel, linestyle=dotted, 
 
 fillColor = applyFilling ? (smi > signal ? #0ebb23 : #cc0000) : color(white, 100)
 fill(smiPlot, signalPlot, color=fillColor, transp=0)
+
+// still error because i cannot convert ver3 to ver5 pine
