@@ -1,0 +1,22 @@
+{
+  "name": "personaltradingview_indicator",
+  "version": "1.0.0",
+  "description": "follow my tradingview 👉🙂 https://id.tradingview.com/u/dewagedeagungkrishnananda/",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungkrishna-code/personalTradingView_indicator.git"
+  },
+  "author": "agungKrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungkrishna-code/personalTradingView_indicator/issues"
+  },
+  "homepage": "https://github.com/agungkrishna-code/personalTradingView_indicator#readme",
+  "dependencies": {
+    "pine-script-syntax-highlighting": "^0.1.3"
+  }
+}
